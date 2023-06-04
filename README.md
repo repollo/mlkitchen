@@ -1,4 +1,4 @@
-## Intro
+## This is a response to [The feasibility of artificial consciousness through the lens of neuroscience](https://www.reddit.com/r/singularity/comments/13z78o3/the_feasibility_of_artificial_consciousness/?utm_source=share&utm_medium=web2x&context=3)
 
 [AutoGPT's](https://github.com/Significant-Gravitas/Auto-GPT) dont think they are in some kind of reality, neither the [Voyager](https://doi.org/10.48550/arXiv.2305.16291), they are all merely "predicting" the next sequence, either in the text modal or as a set of actions through tools integrated with [LangChain](https://python.langchain.com/en/latest) or custom tooling(programming). 
 

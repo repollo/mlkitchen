@@ -15,3 +15,6 @@ test.py
 node_modules
 venv/
 __pycache__
+
+testy.py
+.env
