@@ -1,0 +1,17 @@
+.DS_Store
+
+# .gitignore
+mlkitchen/
+public
+src
+ohwvpw.md
+.cache
+dist
+**.json
+POST.md
+README.md
+requirements.txt
+test.py
+node_modules
+venv/
+__pycache__
