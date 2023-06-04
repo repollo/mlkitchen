@@ -74,11 +74,11 @@ The task of categorizing ML models based on various variables can be complex. Th
 
 ## ML AI Classification by Sophistication
 
-Taking this list into consideration we can start formulating a pathway to AGI, albeit we require to take a step back and acknowledge that AI research and advancement is NON-LINEAR. However we will approach it linearly just to help our limited observational capability and have a sense of grasp of this understanding.
+Taking this list into consideration we can start formulating a pathway to AGI, albeit we require to take a step back and acknowledge that AI research and advancement is NON-LINEAR. However we will approach it linearly just to help our limited observational capacity in turn stimulating a sense of grasp of these concepts.
 
 It's crucial to acknowledge that the ensuing classification system isn't immune to inherent human biases and the constraints imposed by our limited understanding of the unknown.
 
-Before I present this categorization, it's important to underscore that the variables assigned in this context have been introduced and defined by ChatGPT. While they are hypothetical, they aim to represent our best current understanding of AI advancements, including the challenges, issues, and directions apparent in the AI community. These variables should be seen as an attempt to characterize and elucidate the complex and often elusive dimensions of AI systems. However, it's crucial to bear in mind that these are not empirical measures, but rather conceptual indicators derived from our current grasp of AI's trajectory.
+Before I present this categorization, it's important to underscore that the variables assigned in this context have been quantified by ChatGPT. While they are hypothetical, they aim to represent our best current understanding of AI advancements, including the challenges, issues, and directions apparent in the AI community. These variables should be seen as an attempt to characterize and elucidate the complex and often elusive dimensions of AI systems. However, it's crucial to bear in mind that these are not empirical measures, but rather conceptual indicators derived from our current grasp of AI's trajectory.
 
 With all of that being said, below, we present an attempt to articulate a systematic methodology for categorizing the varying capability levels of ML (AI) Sophistication:
 
